@@ -1,0 +1,55 @@
+    body{
+        background-color: rgb(250, 209, 160);
+    }
+
+    h1 {
+        color: rgb(59,59,59);
+        font-family: 'Fascinate', cursive;
+        font-size: 200%px;
+    }
+
+    .Intro {
+        color: rgb(59,59,59);
+        font-family: 'Joan', serif;
+        font-size: 100%x;
+    }
+
+    a {
+        color: rgb(59,59,59);
+        font-family: 'Kdam Thmor Pro', sans-serif;
+        font-size: 300%;
+        text-decoration: none;
+    }
+
+    ul {
+        color: rgb(59,59,59);
+    }
+
+    img {
+        width: 30%;
+    }
+
+    .nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .JCole {
+        padding-left: 5%;
+    }
+
+    ul.nav {
+        padding-left: 0px;
+        background-color: rgb(252, 222, 185);
+        text-align: center;
+    }
+
+    ul.nav > li {
+        display: inline-block;
+        padding: 10px 20px;
+    }
+
+    ul.nav > li:hover {
+        background-color: rgb(253, 199, 133);
+    }
